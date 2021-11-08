@@ -1,0 +1,414 @@
+Information,31/10/2021 08.50.32,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 65 to 67.
+Information,31/10/2021 08.50.32,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,31/10/2021 08.50.01,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,31/10/2021 08.50.01,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 64 to 65.
+Information,31/10/2021 08.44.05,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.116.0)
+Information,31/10/2021 08.43.52,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.116.0)
+Information,31/10/2021 08.43.52,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,31/10/2021 08.43.50,googledrivefs3525,1,None,Wake from sleep detected.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:43:49.967071000Z from ‎2021‎-‎10‎-‎31T01:43:49.966895100Z.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:43:49.966053200Z from ‎2021‎-‎10‎-‎31T01:43:49.965916700Z.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123) with reference id 2163861843. Current local stratum number is 4."
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:43:49.965294400Z from ‎2021‎-‎10‎-‎31T01:43:38.306434000Z.
+Information,31/10/2021 08.43.49,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.43.22,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123)."
+Information,31/10/2021 08.42.59,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+Information,31/10/2021 08.42.56,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,31/10/2021 08.42.56,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 62 to 64.
+Information,31/10/2021 08.42.56,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,31/10/2021 08.42.55,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:42:55.227236700Z from ‎2021‎-‎10‎-‎31T01:42:55.226372100Z.
+Information,31/10/2021 08.42.55,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -420.
+Information,31/10/2021 08.42.55,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 61 to 62.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,31/10/2021 08.42.54,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Information,31/10/2021 08.42.54,googledrivefs3525,1,None,Wake from sleep detected.
+Information,31/10/2021 08.42.53,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Information,31/10/2021 08.42.52,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎31T01:42:52.500000000Z from ‎2021‎-‎10‎-‎30T16:17:41.291691200Z.
+Information,30/10/2021 23.17.41,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,30/10/2021 23.17.41,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->52.148.114.188:123) with reference id 3161625652. Current local stratum number is 4."
+Information,30/10/2021 23.17.35,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+Information,30/10/2021 23.17.31,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 23.17.27,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 23.17.26,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 60 to 61.
+Information,30/10/2021 23.17.26,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 23.17.25,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,30/10/2021 23.17.25,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,30/10/2021 23.17.25,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->52.148.114.188:123)."
+Information,30/10/2021 23.17.24,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Information,30/10/2021 21.52.33,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 21.51.39,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 21.47.33,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,30/10/2021 21.47.25,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 59 to 60.
+Information,30/10/2021 21.47.24,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 21.47.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 58 to 59.
+Information,30/10/2021 21.46.37,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 56 to 58.
+Information,30/10/2021 21.46.37,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 21.45.47,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 21.45.47,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 55 to 56.
+Information,30/10/2021 21.40.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 53 to 55.
+Information,30/10/2021 21.40.50,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 21.13.53,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 21.13.53,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 52 to 53.
+Information,30/10/2021 21.03.37,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 50 to 52.
+Information,30/10/2021 21.03.37,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 20.59.38,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 20.59.38,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 49 to 50.
+Information,30/10/2021 20.56.50,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 20.54.45,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,30/10/2021 20.52.59,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 47 to 49.
+Information,30/10/2021 20.52.59,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 20.52.50,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 20.52.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 46 to 47.
+Information,30/10/2021 20.52.49,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,30/10/2021 20.25.07,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.WindowsNotepad_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,30/10/2021 19.49.55,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 19.47.56,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 44 to 46.
+Information,30/10/2021 19.47.56,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 19.47.47,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 19.47.47,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 43 to 44.
+Information,30/10/2021 19.47.18,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,30/10/2021 19.47.14,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 41 to 43.
+Information,30/10/2021 19.47.14,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 19.47.14,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+Information,30/10/2021 19.47.13,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 19.47.13,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 19.47.13,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 40 to 41.
+Information,30/10/2021 19.47.12,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Information,30/10/2021 19.47.12,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 19.47.12,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,30/10/2021 19.47.12,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,30/10/2021 19.47.12,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Information,30/10/2021 19.47.10,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Information,30/10/2021 19.47.09,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,30/10/2021 19.47.08,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎30T12:47:08.500000000Z from ‎2021‎-‎10‎-‎30T09:23:43.857860400Z.
+Information,30/10/2021 16.23.43,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,30/10/2021 16.23.38,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+Information,30/10/2021 16.23.31,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 16.23.27,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 16.23.25,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 39 to 40.
+Information,30/10/2021 16.23.25,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 16.23.25,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,30/10/2021 16.23.24,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Information,30/10/2021 15.08.23,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 14.58.35,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 14.53.30,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 38 to 39.
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 36 to 38.
+Information,30/10/2021 14.53.24,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 14.53.20,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 14.53.20,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 35 to 36.
+Information,30/10/2021 14.53.19,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 14.53.19,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,30/10/2021 14.45.46,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 14.43.40,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,30/10/2021 14.40.41,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,30/10/2021 14.40.40,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,30/10/2021 14.27.14,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\SystemAppData\Helium\UserClasses.dat was cleared updating 2 keys and creating 1 modified pages.
+Information,30/10/2021 14.27.14,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\SystemAppData\Helium\User.dat was cleared updating 1 keys and creating 1 modified pages.
+Information,30/10/2021 13.05.51,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,30/10/2021 13.04.16,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.79.0)
+Information,30/10/2021 13.04.07,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.79.0)
+Information,30/10/2021 13.04.07,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,30/10/2021 13.03.46,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,30/10/2021 13.03.39,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123)."
+Information,30/10/2021 13.03.39,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\svchost.exe (process ID:916) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 13.03.39,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+Information,30/10/2021 13.03.38,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 33 to 35.
+Information,30/10/2021 13.03.38,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,30/10/2021 13.03.37,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 32 to 33.
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,30/10/2021 13.03.37,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Information,30/10/2021 13.03.36,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Information,30/10/2021 13.03.35,googledrivefs3525,1,None,Wake from sleep detected.
+Information,30/10/2021 13.03.35,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Information,30/10/2021 13.03.34,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,30/10/2021 13.03.34,EventLog,6013,None,The system uptime is 148720 seconds.
+Information,30/10/2021 13.03.33,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎30T06:03:33.500000000Z from ‎2021‎-‎10‎-‎29T16:29:40.479614900Z.
+Information,29/10/2021 23.29.40,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,29/10/2021 23.29.34,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+Information,29/10/2021 23.29.29,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 23.29.27,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 23.29.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 31 to 32.
+Information,29/10/2021 23.29.24,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 23.29.23,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Information,29/10/2021 22.10.20,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 22.00.26,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 21.55.32,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,29/10/2021 21.55.24,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 30 to 31.
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 28 to 30.
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 21.55.23,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 27 to 28.
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 21.55.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 26 to 27.
+Information,29/10/2021 21.55.20,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 21.55.20,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 25 to 26.
+Information,29/10/2021 21.55.19,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 20.56.49,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 20.54.45,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 20.42.11,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.38.0)
+Information,29/10/2021 20.42.03,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.38.0)
+Information,29/10/2021 20.42.03,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 20.20.20,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Information,29/10/2021 19.55.20,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,29/10/2021 18.49.11,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 18.47.07,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 18.44.44,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 18.42.40,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 18.41.50,Service Control Manager,7045,None,"A service was installed in the system.
+Information,29/10/2021 18.35.42,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 18.33.29,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 18.33.24,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 18.33.22,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 18.33.22,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\svchost.exe (process ID:916) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 18.33.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 24 to 25.
+Information,29/10/2021 18.33.21,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 18.33.20,googledrivefs3525,1,None,Warning: no matching IRPs found for reply.
+Information,29/10/2021 18.33.20,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Information,29/10/2021 18.33.19,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider Information,29/10/2021 18.33.19,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 17.01.52,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 15.52.09,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 15.47.14,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,29/10/2021 15.47.09,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 23 to 24.
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 21 to 23.
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 15.47.08,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 15.46.51,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 15.46.51,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 20 to 21.
+Information,29/10/2021 15.46.51,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 15.46.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 19 to 20.
+Information,29/10/2021 15.46.50,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 15.46.50,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 18 to 19.
+Information,29/10/2021 15.45.19,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider Information,29/10/2021 15.28.15,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider Information,29/10/2021 15.11.11,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider Information,29/10/2021 15.07.00,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 15.06.59,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 14.53.51,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|[::]:123->[64:ff9b::3494:72bc]:123)."
+Information,29/10/2021 14.53.51,Microsoft-Windows-Time-Service,158,None,The time provider 'VMICTimeProvider' has indicated that the current hardware and operating environment is not supported and has stopped. This behavior is expected for VMICTimeProvider on non-HyperV-guest environments. This may be the expected behavior for the current provider Information,29/10/2021 14.33.27,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 14.33.26,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 14.01.22,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 13.59.16,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 13.31.10,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 13.31.09,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 13.03.01,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRFHVQM-MICROSOFT.WINDOWSCOMMUNICATIONSAPPS
+Information,29/10/2021 13.03.00,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFHVQM-MICROSOFT.WINDOWSCOMMUNICATIONSAPPS
+Information,29/10/2021 13.02.58,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.02.35,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NT52VQ39BVN-Microsoft.LanguageExperiencePacken-GB
+Information,29/10/2021 13.02.34,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NT52VQ39BVN-Microsoft.LanguageExperiencePacken-GB
+Information,29/10/2021 13.02.20,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9P4X3N4SDK8P-Microsoft.LanguageExperiencePackid-ID
+Information,29/10/2021 13.02.19,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9P4X3N4SDK8P-Microsoft.LanguageExperiencePackid-ID
+Information,29/10/2021 13.01.51,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.01.51,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.01.44,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NZKPSTSNW4P-Microsoft.XboxGamingOverlay
+Information,29/10/2021 13.01.43,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9MSMLRH6LZF3-Microsoft.WindowsNotepad
+Information,29/10/2021 13.01.42,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 6 keys and creating 2 modified pages.
+Information,29/10/2021 13.01.41,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NZKPSTSNW4P-Microsoft.XboxGamingOverlay
+Information,29/10/2021 13.01.39,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.01.37,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxGamingOverlay_5.721.10202.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.01.33,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC
+Information,29/10/2021 13.01.31,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC
+Information,29/10/2021 13.01.26,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ZuneMusic_10.21102.10421.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.01.19,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.01.09,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFJ364-MICROSOFT.SKYPEAPP
+Information,29/10/2021 13.01.05,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.SkypeApp_15.77.97.0_x86__kzf8qxf38zg5c\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.01.01,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.00.54,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRFHVN5-MICROSOFT.WINDOWSCALCULATOR
+Information,29/10/2021 13.00.54,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.WindowsCalculator_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 2 keys and creating 1 modified pages.
+Information,29/10/2021 13.00.53,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFHVN5-MICROSOFT.WINDOWSCALCULATOR
+Information,29/10/2021 13.00.53,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.00.51,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsCalculator_11.2109.9.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.00.49,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,29/10/2021 13.00.47,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRFJBBG-MICROSOFT.WINDOWSCAMERA
+Information,29/10/2021 13.00.46,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFJBBG-MICROSOFT.WINDOWSCAMERA
+Information,29/10/2021 13.00.44,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsCamera_2022.2110.0.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.00.16,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.00.10,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9N0DX20HK701-Microsoft.WindowsTerminal
+Information,29/10/2021 13.00.10,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 13.00.08,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsTerminal_1.11.2921.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 13.00.06,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRFJ3PR-MICROSOFT.WINDOWSALARMS
+Information,29/10/2021 13.00.05,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRFJ3PR-MICROSOFT.WINDOWSALARMS
+Information,29/10/2021 13.00.03,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsAlarms_11.2109.1.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.59.36,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.59.29,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NBLGGH4LS1F-Microsoft.StorePurchaseApp
+Information,29/10/2021 12.59.29,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.StorePurchaseApp_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 2 keys and creating 1 modified pages.
+Information,29/10/2021 12.59.29,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NBLGGH4LS1F-Microsoft.StorePurchaseApp
+Information,29/10/2021 12.59.28,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.StorePurchaseApp_12109.1001.10.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.59.27,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.59.18,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NFTCH6J7FHV-Microsoft.PowerAutomateDesktop
+Information,29/10/2021 12.59.18,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,29/10/2021 12.59.18,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NFTCH6J7FHV-Microsoft.PowerAutomateDesktop
+Information,29/10/2021 12.59.09,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.59.02,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NBLGGH42THS-Microsoft.Microsoft3DViewer
+Information,29/10/2021 12.59.01,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NBLGGH42THS-Microsoft.Microsoft3DViewer
+Information,29/10/2021 12.59.01,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.59.00,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Microsoft3DViewer_1.0.35.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.58.54,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NBLGGH5R558-Microsoft.Todos
+Information,29/10/2021 12.58.54,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.Todos_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,29/10/2021 12.58.54,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NBLGGH5R558-Microsoft.Todos
+Information,29/10/2021 12.58.52,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.58.52,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Todos_0.55.42923.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.58.45,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRDTBJJ-MICROSOFT.GETSTARTED
+Information,29/10/2021 12.58.45,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRDTBJJ-MICROSOFT.GETSTARTED
+Information,29/10/2021 12.58.43,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.58.35,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Getstarted_10.7.42522.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.58.21,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9PCFS5B6T72H-Microsoft.Paint
+Information,29/10/2021 12.58.21,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.58.20,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\DTETI FT UGM\AppData\Local\Packages\Microsoft.Paint_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,29/10/2021 12.58.20,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9PCFS5B6T72H-Microsoft.Paint
+Information,29/10/2021 12.58.19,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9NBLGGH4NNS1-Microsoft.DesktopAppInstaller
+Information,29/10/2021 12.58.18,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Paint_11.2110.0.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.58.17,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9NBLGGH4NNS1-Microsoft.DesktopAppInstaller
+Information,29/10/2021 12.58.14,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.DesktopAppInstaller_1.16.12663.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.58.11,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.58.05,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: 9WZDNCRDTBVB-MICROSOFT.WINDOWSMAPS
+Information,29/10/2021 12.58.04,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 9WZDNCRDTBVB-MICROSOFT.WINDOWSMAPS
+Information,29/10/2021 12.58.02,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsMaps_1.0.28.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,29/10/2021 12.57.41,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.57.41,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.57.41,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 12.57.39,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 17 to 18.
+Information,29/10/2021 12.57.39,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 12.56.41,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 16 to 17.
+Information,29/10/2021 12.56.38,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,29/10/2021 12.56.35,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 12.56.33,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 12.56.33,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 15 to 16.
+Information,29/10/2021 12.56.33,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 12.56.33,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Information,29/10/2021 12.56.32,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 12.17.27,EventLog,6013,None,The system uptime is 59553 seconds.
+Information,29/10/2021 11.22.32,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 11.17.32,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,29/10/2021 11.17.27,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 14 to 15.
+Information,29/10/2021 11.17.21,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 11.17.21,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 13 to 14.
+Information,29/10/2021 11.17.21,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 11.17.21,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 11.17.14,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 12 to 13.
+Information,29/10/2021 11.17.13,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 11.17.13,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 11 to 12.
+Information,29/10/2021 11.17.13,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 08.40.40,Microsoft-Windows-WindowsUpdateClient,19,Windows Update Agent,Installation Successful: Windows successfully installed the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.3.0)
+Information,29/10/2021 08.40.19,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.353.3.0)
+Information,29/10/2021 08.40.10,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,29/10/2021 07.40.42,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 07.40.41,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,29/10/2021 06.45.00,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\svchost.exe (process ID:916) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 06.45.00,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 9 to 11.
+Information,29/10/2021 06.45.00,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,29/10/2021 06.45.00,Microsoft-Windows-Power-Troubleshooter,1,None,"The system has returned from a low power state.
+Information,29/10/2021 06.45.00,googledrivefs3525,1,None,Wake from sleep detected.
+Information,29/10/2021 06.44.59,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,29/10/2021 06.44.58,BTHUSB,18,None,Windows cannot store Bluetooth authentication codes (link keys) on the local adapter. Bluetooth keyboards might not work in the system BIOS during start-up.
+Information,29/10/2021 06.44.58,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,29/10/2021 06.44.58,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 8 to 9.
+Information,29/10/2021 06.44.58,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,29/10/2021 06.44.58,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,29/10/2021 06.44.58,Microsoft-Windows-Kernel-Boot,30,(21),The firmware reported boot metrics.
+Information,29/10/2021 06.44.57,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Information,29/10/2021 06.44.57,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,29/10/2021 06.44.56,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2021‎-‎10‎-‎28T23:44:56.500000000Z from ‎2021‎-‎10‎-‎28T16:29:55.552227500Z.
+Information,28/10/2021 23.29.55,Microsoft-Windows-Kernel-Power,107,(102),The system has resumed from sleep.
+Information,28/10/2021 23.29.49,Microsoft-Windows-Kernel-Power,42,(64),"The system is entering sleep.
+Information,28/10/2021 23.29.44,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 23.29.44,googledrivefs3525,1,None,Wake from sleep detected.
+Information,28/10/2021 23.29.42,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 7 to 8.
+Information,28/10/2021 23.29.42,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,28/10/2021 23.29.41,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Connected, Reason: None"
+Information,28/10/2021 20.43.39,googledrivefs3525,1,None,Wake from sleep detected.
+Information,28/10/2021 20.33.52,googledrivefs3525,1,None,Wake from sleep detected.
+Information,28/10/2021 20.33.43,googledrivefs3525,1,None,Wake from sleep detected.
+Information,28/10/2021 20.28.52,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: 7"
+Information,28/10/2021 20.28.47,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Provisioning\Microsoft-Desktop-Provisioning-Sequence.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,28/10/2021 20.28.47,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 6 to 7.
+Information,28/10/2021 20.28.41,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,28/10/2021 20.28.41,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 5 to 6.
+Information,28/10/2021 20.28.41,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,28/10/2021 20.28.41,Microsoft-Windows-Kernel-Power,105,(100),Power source change.
+Information,28/10/2021 20.28.40,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 4 to 5.
+Information,28/10/2021 20.28.39,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,28/10/2021 20.28.39,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 3 to 4.
+Information,28/10/2021 20.28.39,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\smartstandbycomponent.inf_amd64_5c67d36ae277810f\SmartStandby.exe (process ID:5348) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 19.52.18,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,28/10/2021 19.52.12,googledrivefs3525,1,None,"Opened file with user mode dispatch blocked: ""\drive_fs_notification"""
+Information,28/10/2021 19.48.00,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 1 to 3.
+Information,28/10/2021 19.48.00,Microsoft-Windows-Kernel-Power,507,(158),"The system is exiting Modern Standby 
+Information,28/10/2021 19.47.49,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,28/10/2021 19.47.30,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,28/10/2021 19.46.36,Microsoft-Windows-Kernel-Power,506,(157),"The system is entering Modern Standby 
+Information,28/10/2021 19.46.36,Microsoft-Windows-Kernel-Power,566,(268),"The system session has transitioned from 0 to 1.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Activating keepalive handle from process 11856.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Opened keepalive file from process 11856.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Opened file with user mode dispatch blocked: ""\__drive_fs_keepalive"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Handle created before IOCTL_EVENT_WAIT for file ""\$Extend\$Reparse:$R:$INDEX_ALLOCATION"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Handle created before IOCTL_EVENT_WAIT for file ""(null)"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Handle created before IOCTL_EVENT_WAIT for file ""(null)"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Finished event start successfully with flags: 0
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Returning actual mount point G
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Mounting successfully done.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Link name matches the current one.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Link created: ""\DosDevices\G:"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Link created: ""\??\Volume{d9112b3e-37ec-11ec-ab00-24418cc71996}"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Returning suggested name: ""\DosDevices\G:"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,AutoAssignment = 0
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Mount manager is querying for desired drive letter. ResolveMountConflicts = 1; ForceDriveLetter
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Mount entry found: \DosDevices\G: -> \Device\Volume{6bcfd426-36f0-38c6-9360-d8b061c3860c}
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Starting FCB garbage collector with 2000 ms interval.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Found entry with matching device name: \Device\Volume{6bcfd426-36f0-38c6-9360-d8b061c3860c}
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Finding mount entry; lockGlobal = 1; mount point = .
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"0-d8b061c3860c}"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"Mounting volume using MountPoint ""\DosDevices\G:"" device ""\Device\Volume{6bcfd426-36f0-38c6-936"
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Event start using mount ID: 1; device name: \Volume{6bcfd426-36f0-38c6-9360-d8b061c3860c}.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Inserted new mount entry.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"ume{6bcfd426-36f0-38c6-9360-d8b061c3860c}"" created"
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"SymbolicLink: ""\DosDevices\Global\Volume{6bcfd426-36f0-38c6-9360-d8b061c3860c}"" -> ""\Device\Vol"
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,; type: 8
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"\DosDevices\Global\Volume{6bcfd426-36f0-38c6-9360-d8b061c3860c}""; mount point: ""\DosDevices\G:"""
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,"disk device name: ""\Device\Volume{6bcfd426-36f0-38c6-9360-d8b061c3860c}""; symbolic link name: """
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Set volume security descriptor successfully.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Creating disk device; mount point = G; mount ID = 1l
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,No mount entry found.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Finding mount entry; lockGlobal = 0; mount point = \DosDevices\G:.
+Information,28/10/2021 19.45.35,googledrivefs3525,1,None,Entered event start.
+Information,28/10/2021 19.45.19,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,28/10/2021 19.45.19,Microsoft-Windows-TPM-WMI,1025,None,The TPM was successfully provisioned and is now ready for use.
+Information,28/10/2021 19.45.18,Microsoft-Windows-TPM-WMI,1282,None,The TBS device identifier has been generated.
+Information,28/10/2021 19.45.14,Netwtw06,7021,None,7021 - Connection telemetry fields and analysis usage
+Information,28/10/2021 19.45.08,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\LITSSvc.exe (process ID:2988) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 19.45.07,Microsoft-Windows-WLAN-AutoConfig,10001,None,"WLAN Extensibility Module has successfully started.
+Information,28/10/2021 19.45.07,TPM,18,None,This event triggers the Trusted Platform Module (TPM) provisioning/status check to run.
+Information,28/10/2021 19.45.07,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+Information,28/10/2021 19.45.06,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_82b77f8c4618e2d0\esif_uf.exe (process ID:5064) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 19.45.06,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_82b77f8c4618e2d0\esif_uf.exe (process ID:5064) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 19.45.06,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_82b77f8c4618e2d0\esif_uf.exe (process ID:5064) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 19.45.06,Microsoft-Windows-Winlogon,7001,(1101),User Log-on Notification for Customer Experience Improvement Program
+Information,28/10/2021 19.45.06,Microsoft-Windows-WLAN-AutoConfig,4000,None,"WLAN AutoConfig service has successfully started.
+Information,28/10/2021 19.45.05,Win32k,267,None,Touch/Touchpad Hardware Quality Assurance verification succeeded.
+Information,28/10/2021 19.45.05,Win32k,267,None,Touch/Touchpad Hardware Quality Assurance verification succeeded.
+Information,28/10/2021 19.45.05,Service Control Manager,7040,None,The start type of the TabletInputService service was changed from demand start to auto start.
+Information,28/10/2021 19.45.05,Service Control Manager,7040,None,The start type of the TabletInputService service was changed from auto start to demand start.
+Information,28/10/2021 19.45.05,Microsoft-Windows-UserModePowerService,12,(10),Process C:\Windows\System32\svchost.exe (process ID:916) reset policy scheme from {381b4222-f694-41f0-9685-ff5bb260df2e} to {381b4222-f694-41f0-9685-ff5bb260df2e}
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎1970‎-‎08‎-‎19T08:10:34.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎1990‎-‎03‎-‎04T21:18:49.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,28/10/2021 19.45.05,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎1986‎-‎05‎-‎22T19:46:22.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎1986‎-‎05‎-‎22T19:46:22.000000000Z) unloaded successfully."
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎1986‎-‎05‎-‎22T19:46:22.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎2058‎-‎03‎-‎26T07:37:33.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,28/10/2021 19.45.05,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎1991‎-‎06‎-‎21T13:30:29.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,28/10/2021 19.45.05,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,28/10/2021 19.45.05,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,28/10/2021 19.45.05,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,28/10/2021 19.45.05,Win32k,267,None,Touch/Touchpad Hardware Quality Assurance verification succeeded.
+Information,28/10/2021 19.45.05,Win32k,267,None,Touch/Touchpad Hardware Quality Assurance verification succeeded.
+Information,28/10/2021 19.45.04,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
